@@ -6,13 +6,13 @@ E.g. Alice thinks that Ethereum will perform better than Cardano in the next mon
 Bob looks at the list of open Bets and sees the one from Alice. He has the logo of Cardano tattooed on his arm so he is willing to take the other side of the bet and accepts the challenge, adding another 1ETH. At the end of October, one of them will receive 2ETH (minus protocol fees).
 
 Users will only have two options:
-  - Create a new Bet
-  - Accept an open Bet
+  - Create a new Bet.
+  - Accept an open Bet.
 
 In order to create a Bet, a user will have to:
   - Choose a pair (among a list of supported coins/tokens) and the winner.
   - Choose a time period (could be hourly, daily, weekly or monthly).
-  - Set an amount (in ETH or WETH, I don't know yet)
+  - Set an amount (in ETH or WETH, I don't know yet).
 
 In order to accept an open Bet a user will have to simply add the required amount to play. Once a bet is closed, nobody else can join neither can't be opened again.
 
@@ -23,4 +23,4 @@ Considerations:
 
 
 
-_Note: This file is just a first brainstorming, nothing is set in stone and I will keep adding ideas and updating this file as the bootcamp advances and I receive feedback from instructors and other students._ 
+_Note: This README is just a first brainstorming, nothing is set in stone and I will keep adding ideas and updating this file as the bootcamp advances and I receive feedback from instructors and other students._ 
