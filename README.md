@@ -12,7 +12,7 @@ Users will only have two options:
 In order to create a Bet, a user will have to:
   - Choose a pair (among a list of supported coins/tokens) and the winner.
   - Choose a time period (could be hourly, daily, weekly or monthly).
-  - Set an amount (in ETH or WETH I don't know yet)
+  - Set an amount (in ETH or WETH, I don't know yet)
 
 In order to accept an open Bet a user will have to simply add the required amount to play. Once a bet is closed, nobody else can join neither can't be opened again.
 
@@ -23,4 +23,4 @@ Considerations:
 
 
 
-_Note: This file is just a first brainstorming, nothing is set in stone and I will keep adding ideas and updating this file as the bootcamp advances._ 
+_Note: This file is just a first brainstorming, nothing is set in stone and I will keep adding ideas and updating this file as the bootcamp advances and I receive feedback from instructors and other students._ 
